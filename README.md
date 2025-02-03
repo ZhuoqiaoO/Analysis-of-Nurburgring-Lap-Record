@@ -25,4 +25,4 @@ motivates the following study of the statistical relationship between the perfor
 different vehicles and their corresponding lap records at Nürburgring. More specifically, multiple 
 linear regression model is fitted with lap records being the response variable and the key 
 measurements of a vehicle’s performance as predictor variables. The adjusted R squared value indicates 
-that the 
+that 65% of the lap records are justified by the selected vehicle performance measuring factors. 
